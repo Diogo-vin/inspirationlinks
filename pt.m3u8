@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.gz" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5dd66c9a1ad2ef67514afb4ae778f0d0cbc4b85a/PlutoTV/br.xml" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz" refresh="3600" m3uautoload="1" refresh="24"
 
+EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNTSERIES" group-title="Portugal 🇵🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series 🇧🇷 (cc 🇵🇹🇧🇷)
+http://170.80.69.8:8000/play/a0cy/index.m3u8
 
 
 
